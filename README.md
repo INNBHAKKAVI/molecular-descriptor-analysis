@@ -37,5 +37,9 @@ This project performs molecular descriptor analysis using RDKit and Python.
 - Develop interactive visualizations
 ## Output
 
-![Output](output.png)
+### Compound Descriptor Table
+![Compound Output](compoundoutput.png)
+
+### Molecular Descriptor Visualization
+![Graph Output](graphoutput.png)
 
