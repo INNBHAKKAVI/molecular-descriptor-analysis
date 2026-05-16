@@ -1,9 +1,13 @@
 # molecular-descriptor-analysis
 Molecular descriptor analysis using RDKit and Python
-# Molecular Descriptor Analysis
-
 This project performs molecular descriptor analysis using RDKit and Python.
 
+## Workflow
+1. Input SMILES strings
+2. Convert SMILES into molecular structures
+3. Calculate molecular descriptors using RDKit
+4. Store descriptor values in a pandas dataframe
+5. Visualize descriptor distributions using matplotlib
 ## Features
 - Reads SMILES strings
 - Calculates molecular descriptors
@@ -25,3 +29,11 @@ This project performs molecular descriptor analysis using RDKit and Python.
 - Bioinformatics
 - Drug Discovery
 - Computational Chemistry
+## Future Improvements
+
+- Add more molecular descriptors
+- Integrate Machine Learning models
+- Use larger drug datasets
+- Develop interactive visualizations
+
+
